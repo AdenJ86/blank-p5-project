@@ -1,7 +1,7 @@
-var setup = function () {
+setup = function () {
 
 };
 
-var draw = function () {
+draw = function () {
 
 };
